@@ -1,0 +1,34 @@
+{
+  "name": "ionic-react-rc1-blank-template",
+  "version": "1.0.0",
+  "description": "Sandbox template identical to starting from CLI.",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@ionic/react": "4.8.0-rc.1",
+    "@ionic/react-router": "4.8.0-rc.1",
+    "ionicons": "4.6.3",
+    "react": "16.8.4",
+    "react-dom": "16.8.4",
+    "react-router": "5.0.1",
+    "react-router-dom": "5.0.1",
+    "react-scripts": "2.1.3"
+  },
+  "devDependencies": {
+    "@types/react": "16.8.8",
+    "@types/react-dom": "16.8.2",
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
